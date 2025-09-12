@@ -88,10 +88,10 @@
   body {
     background: linear-gradient(
       120deg,
-      #f7fafd 0%,
-      #e3f2fd 40%,
-      #2196f3 80%,
-      #00c6fb 100%
+      #e3f2fd 0%,
+      #bbdefb 40%,
+      #f8f9fa 80%,
+      #ffffff 100%
     );
     animation: gradientMove 12s ease-in-out infinite alternate;
     color: $text-color;
